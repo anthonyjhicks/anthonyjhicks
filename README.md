@@ -2,7 +2,7 @@
 - 👀 I’m interested in Home Assistant, HomeLab and IoT
 - 🌱 I’m currently learning how little I know
 - 💞️ I’m looking to collaborate on home automation projects
-- 📫 You can find me at [anthonyjhicks.com]
+- 📫 You can find me at [anthonyjhicks.com](https://anthonyjhicks.com)
 
 <!---
 anthonyjhicks/anthonyjhicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
